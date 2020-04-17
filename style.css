@@ -1,0 +1,42 @@
+.btn {
+  width: 14rem;
+  height: 13rem;
+  border-radius: 2rem;
+  margin: 2rem;
+  border-color: #1d1a1b;
+  border-width: 0.7rem;
+  color: rgb(238, 231, 224);
+  font-size: 3rem;
+}
+
+body {
+  text-align: center;
+  color: white;
+  background-color: rgb(31, 25, 96);
+}
+.a-1 {
+  background-color: red;
+}
+.a-2 {
+  background-color: blue;
+}
+.a-3 {
+  background-color: orange;
+}
+.a-4 {
+  background-color: green;
+}
+.title {
+  font-size: 6rem;
+  margin: 4rem;
+  font-family: sans-serif;
+}
+.starting {
+  font-family: cursive;
+}
+.play {
+  border-color: white;
+}
+.loose {
+  background-color: red;
+}
